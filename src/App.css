@@ -1,0 +1,145 @@
+.logo {
+  width: 40px;
+}
+
+.primary_color {
+  color: #1b8057;
+
+}
+
+.custom-btn {
+
+  position: relative;
+  background: 0 0;
+  border: 1px solid #1b8057;
+  color: #1b8057;
+  border-radius: 50px;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 17px 36px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  letter-spacing: .5px;
+  overflow: hidden;
+  transform: perspective(1px)translateZ(0);
+}
+
+.custom-btn:hover {
+  transition: all .21s ease-in-out;
+  color: #fff;
+  background-color: #1b8057;
+}
+
+.btn_white {
+  position: relative;
+  border: none;
+  background-color: #f3f9f5;
+  color: #1b8057;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  border-radius: 50px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 17px 36px;
+  line-height: 1;
+  overflow: hidden;
+  z-index: 1;
+  transform: perspective(1px)translateZ(0);
+}
+
+.btn_white:hover {
+  transition: all .21s ease-in-out;
+  color: #fff;
+  background-color: #1b8057;
+
+}
+
+.btn_filled {
+  position: relative;
+  border: none;
+  background-color: #1b8057;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  border-radius: 50px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  line-height: 1;
+  overflow: hidden;
+  z-index: 1;
+  transform: perspective(1px)translateZ(0);
+}
+
+.btn_filled:hover {
+  transition: all .21s ease-in-out;
+  color: #fff;
+  background-color: #105338;
+
+}
+
+.input_btn {
+  background-color: #f8c519;
+  color: #000;
+  border: none;
+  transform: perspective(1px)translateZ(0);
+}
+
+.input_btn:hover {
+  transition: all .21s ease-in-out;
+  color: #000;
+  background-color: #c39600;
+
+}
+
+.admin_btn {
+  text-align: left;
+  background-color: #f3f9f5;
+  color: #707070;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 400;
+  transform: perspective(1px)translateZ(0);
+
+}
+
+.admin_btn:hover {
+  transition: all .21s ease-in-out;
+  background-color: #105338;
+  color: #fff;
+}
+
+.activeBtn {
+  background-color: #1b8057;
+  color: #fff;
+}
+
+.increment:hover {
+  cursor: pointer;
+  background-color: #ecebeb;
+}
+
+.decrement:hover {
+  cursor: pointer;
+  background-color: #ecebeb;
+}
+
+.product-image {
+  position: relative;
+  height: 80px !important;
+  width: 80px !important;
+}
+.product-image img {
+  height: 100% !important;
+  width: 100% !important;
+}
+.product-image .quantity-badge {
+  right: -10px !important;
+  top: -10px;
+}
