@@ -69,7 +69,7 @@ Tools & Platform to be Used:
 
 1. Frontend: HTML, CSS, JavaScript, ReactJs, Bootstrap
 2. Backend: NodeJs, ExpressJs
-3. Database: MongoDB , Mongo€DB Atlas
+3. Database: MongoDB , MongoDB Atlas
 4. Version Control: Git
 5. Code Editor: Visual Studio Code
 6. Project Management: Jira
